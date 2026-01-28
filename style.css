@@ -112,8 +112,8 @@ span{
 }
 
 .home-img img {
-    width: 75vh;
-    height: 75vh;
+    width: 70vh;
+    height: 70vh;
     border-radius: 50%;
     border: 0.2rem solid blue; 
     display: inline-block;
